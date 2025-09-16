@@ -37,11 +37,9 @@ Visualization of predictions on test images
 ```
 **2. Prepare your dataset as shown above.**
 
-**3. Run the main Python script:**
-```python
-   python train_cats_dogs_numpy.py
-```
-**The script will:**
+**3. Run the the code in jupyter, using the 'train' function:**
+
+**The code will:**
 
 *. Load and preprocess images*
 
