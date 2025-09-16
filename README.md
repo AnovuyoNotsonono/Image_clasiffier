@@ -17,6 +17,7 @@ Visualization of predictions on test images
 # Dataset
 
  **Assumes the dataset is organized as:**
+ ```bash
  Images/
 ├── Cats/
 │   ├── train/
@@ -24,7 +25,7 @@ Visualization of predictions on test images
 ├── Dogs/
 │   ├── train/
 │   └── test/
-
+ ```
  **Images are resized to 64x64 pixels before training.**
 
 # How to Run
